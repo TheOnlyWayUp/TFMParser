@@ -1,8 +1,4 @@
-import glob
-import os
-import time
-import traceback
-import json
+import glob, os, time, traceback, json
 
 class TFMParser():
     def __init__(self):
